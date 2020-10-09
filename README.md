@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HeilantG/HeilantG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 我是谁
+
+我是一明很普通的学生，热爱瞎搞，对大多数事物都有足够的好奇心，但是又有些三分热度。在电脑硬件方面比较精通，乐于去*修电脑*。目前在大学学习计算机方面的专业。
+
+### 你在这里会看到什么
+
+瞎写的代码,不保证维护和稳定性的项目,以及乱七八糟的commit.
+
+### 其他一些事情
+
+如果您对我的项目，或者我个人有任何问题或单纯的想认识一下我，请致电我的[邮箱📫:](mailto:gongtongwei@gmail.com)。
